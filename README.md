@@ -1,1 +1,2 @@
 # JAV-Analysis
+Following the instruction of Toidicodedao. Using numpy and pandas to exploration analysis the data of Japanese actress in the entertainment field. Seaborn and Matlip to draw graph. In addition, I create the basis recommendation system by using sklearn Kmean method to cluster the data, verify by the Silhouette and Calinski score. From that, I require input of of user and random choose the actress who match with input requirement. 
